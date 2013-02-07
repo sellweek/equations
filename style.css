@@ -1,5 +1,14 @@
+table {
+	width: 100%;
+}
+tr {
+	width: 100%;
+	font-size: 23px;
+	height: 25px;
+}
+
 input {
 	width: 100%;
-	height: 25px;
 	font-size: 23px;
+	height: 25px;
 }
